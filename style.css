@@ -1,0 +1,84 @@
+.banner {
+    width: 50%;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: black;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+img {
+    width: 200px;
+}
+
+nav {
+    position: absolute;
+    top: 80px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+.principal {
+    padding: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.mapa {
+	padding: 3em 0;
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+}
